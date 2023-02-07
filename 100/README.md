@@ -1,6 +1,6 @@
 # 100 - Introduction
 
-Based on "The Unofficial Guide to NDI" at 
+Based on "The Unofficial Guide to NDI" at [_The Unofficial Guide to NDI - 6 x 9 in.docx (2).pdf](https://github.com/vanHeemstraSystems/network-device-interface/files/10672720/_The.Unofficial.Guide.to.NDI.-.6.x.9.in.docx.2.pdf)
 
 Network Device Interface (NDI®) is a high quality, low latency IP video transmission standard that is popular for video production.
 
